@@ -11,7 +11,7 @@ Key Competencies:
 - Graph Mining
 - Knowledge Graphs
 - Data-driven
-- Python, SQL, R, NLP, Tableau, d3.js
+- Python, JMP, SQL, R, NLP, Tableau, d3.js
 - Packages- networkx, , pandas, numpy, sckit-learn, genism, nltk, matplotlib, seaborn, tensorflow, keras, pytorch, scipy, spacy, OpenIE.
 
 Key Achievements:

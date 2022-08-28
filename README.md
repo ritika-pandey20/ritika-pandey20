@@ -1,4 +1,4 @@
-I am a graduate student pursuing Ph.D. in Computer Science with research background in natural language processing and machine learning. 
+Hi! My name is Ritika. I am a graduate student pursuing Ph.D. in Computer Science with research background in natural language processing and machine learning. 
 I am extremely passionate about data and inquisitive towards latest trends/technical development in the field. My confident personality and strong ability to work both collaboratively and independently has helped me to ensure academic success which I am eager to translate to the work environment. 
 
 Key Competencies:

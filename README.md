@@ -1,4 +1,4 @@
-Hi! My name is Ritika. I am a graduate student pursuing Ph.D. in Computer Science with research background in natural language processing and machine learning. 
+Hi! My name is Ritika. I am a doctoral candidate in Computer Science with research background in data mining and machine learning. 
 I am extremely passionate about data and inquisitive towards latest trends/technical development in the field. My confident personality and strong ability to work both collaboratively and independently has helped me to ensure academic success which I am eager to translate to the work environment. 
 
 Key Competencies:
@@ -15,7 +15,7 @@ Key Competencies:
 - Packages- networkx, , pandas, numpy, sckit-learn, genism, nltk, matplotlib, seaborn, tensorflow, keras, pytorch, scipy, spacy, OpenIE.
 
 Key Achievements:
-+ Contributed to high-impact journals and conferences like KDD, IEEE ISI, IEEE Big data.
++ Contributed to high-impact journals and conferences like KDD, IEEE ISI, IEEE Big data, ICDM.
 + Dean’s Scholarship
 + Built a server prediction model that significantly reduces time & automated the process leading to more timely insights and increased business value.
 + Developed impactful models to solve critical problems involving social harm and criminal justice using advanced machine learning and deep learning algorithms
